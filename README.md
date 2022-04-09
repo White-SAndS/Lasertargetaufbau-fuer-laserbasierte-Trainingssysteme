@@ -1,4 +1,4 @@
-# Lasertargetaufbau-fuer-laserbasierte-Trainingssysteme
+# Targetaufbau-fuer-laserbasierte-Trainingssysteme
 Lasertargetaufbau für Heimtraining mit laserbasierten Schiesstrainigssystemen
 
 Antrieb für diesen Aufbau war die etwas unkomfortable Nutzung von Zielscheiben für das laserbasierte Präzisionsschiesstraining. Da es eine Menge Apps für Android gibt, kostenfreie und zu bezahlende, die im Wesentlichen die Kamera des Handys und den Prozessor zur Lasererkennung nutzen dabei aber immer das Problem haben das die Erkennung sehr von den Zielscheiben abhängt. Oft werden spezielle Zielscheiben mit geringerer Schwarzdeckung angeboten die den Laserpunkt in den dunkleren Bereichen nicht schlucken. 
